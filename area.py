@@ -1,0 +1,10 @@
+print("Simple Interest")
+print("what is P")
+P=int(input())
+print("what is T")
+T=int(input())
+print("what is R")
+R=int(input())
+SI = P*R*T/100
+print("Simple Interest is")
+print(SI)
